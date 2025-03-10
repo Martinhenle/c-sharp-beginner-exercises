@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6v69ErMqqL8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ma.Henle\\OneDrive - Quanos Solutions GmbH\\Desktop\\c#-practice\\Strings\\Strings\\Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ma.Henle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ma.Henle\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ma.Henle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ma.Henle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
