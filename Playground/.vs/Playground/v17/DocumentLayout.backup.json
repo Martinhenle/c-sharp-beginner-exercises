@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c-sharp-practice\\Playground\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E05728-2D82-4428-9398-43191EAC0367}|Playground\\Playground.csproj|c:\\c-sharp-practice\\playground\\playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E05728-2D82-4428-9398-43191EAC0367}|Playground\\Playground.csproj|solutionrelative:playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E05728-2D82-4428-9398-43191EAC0367}|Playground\\Playground.csproj|c:\\c-sharp-practice\\playground\\playground\\declerations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E05728-2D82-4428-9398-43191EAC0367}|Playground\\Playground.csproj|solutionrelative:playground\\declerations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Declerations.cs",
+              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\Playground\\Declerations.cs",
+              "RelativeDocumentMoniker": "Playground\\Declerations.cs",
+              "ToolTip": "C:\\c-sharp-practice\\Playground\\Playground\\Declerations.cs",
+              "RelativeToolTip": "Playground\\Declerations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:41:06.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\Playground\\Program.cs",
+              "RelativeDocumentMoniker": "Playground\\Program.cs",
+              "ToolTip": "C:\\c-sharp-practice\\Playground\\Playground\\Program.cs",
+              "RelativeToolTip": "Playground\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:08:24.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\c-sharp-practice\Playground\Playground\bin\Debug\net8.0\Playground.exe
+C:\c-sharp-practice\Playground\Playground\bin\Debug\net8.0\Playground.deps.json
+C:\c-sharp-practice\Playground\Playground\bin\Debug\net8.0\Playground.runtimeconfig.json
+C:\c-sharp-practice\Playground\Playground\bin\Debug\net8.0\Playground.dll
+C:\c-sharp-practice\Playground\Playground\bin\Debug\net8.0\Playground.pdb
+C:\c-sharp-practice\Playground\Playground\obj\Debug\net8.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp-practice\Playground\Playground\obj\Debug\net8.0\Playground.AssemblyInfoInputs.cache
+C:\c-sharp-practice\Playground\Playground\obj\Debug\net8.0\Playground.AssemblyInfo.cs
+C:\c-sharp-practice\Playground\Playground\obj\Debug\net8.0\Playground.csproj.CoreCompileInputs.cache
+C:\c-sharp-practice\Playground\Playground\obj\Debug\net8.0\Playground.sourcelink.json
+C:\c-sharp-practice\Playground\Playground\obj\Debug\net8.0\Playground.dll
+C:\c-sharp-practice\Playground\Playground\obj\Debug\net8.0\refint\Playground.dll
+C:\c-sharp-practice\Playground\Playground\obj\Debug\net8.0\Playground.pdb
+C:\c-sharp-practice\Playground\Playground\obj\Debug\net8.0\Playground.genruntimeconfig.cache
+C:\c-sharp-practice\Playground\Playground\obj\Debug\net8.0\ref\Playground.dll
