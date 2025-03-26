@@ -1,0 +1,15 @@
+C:\c-sharp-practice\Playground\BasicConcepts\bin\Debug\net8.0\BasicConcepts.exe
+C:\c-sharp-practice\Playground\BasicConcepts\bin\Debug\net8.0\BasicConcepts.deps.json
+C:\c-sharp-practice\Playground\BasicConcepts\bin\Debug\net8.0\BasicConcepts.runtimeconfig.json
+C:\c-sharp-practice\Playground\BasicConcepts\bin\Debug\net8.0\BasicConcepts.dll
+C:\c-sharp-practice\Playground\BasicConcepts\bin\Debug\net8.0\BasicConcepts.pdb
+C:\c-sharp-practice\Playground\BasicConcepts\obj\Debug\net8.0\BasicConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\c-sharp-practice\Playground\BasicConcepts\obj\Debug\net8.0\BasicConcepts.AssemblyInfoInputs.cache
+C:\c-sharp-practice\Playground\BasicConcepts\obj\Debug\net8.0\BasicConcepts.AssemblyInfo.cs
+C:\c-sharp-practice\Playground\BasicConcepts\obj\Debug\net8.0\BasicConcepts.csproj.CoreCompileInputs.cache
+C:\c-sharp-practice\Playground\BasicConcepts\obj\Debug\net8.0\BasicConcepts.sourcelink.json
+C:\c-sharp-practice\Playground\BasicConcepts\obj\Debug\net8.0\BasicConcepts.dll
+C:\c-sharp-practice\Playground\BasicConcepts\obj\Debug\net8.0\refint\BasicConcepts.dll
+C:\c-sharp-practice\Playground\BasicConcepts\obj\Debug\net8.0\BasicConcepts.pdb
+C:\c-sharp-practice\Playground\BasicConcepts\obj\Debug\net8.0\BasicConcepts.genruntimeconfig.cache
+C:\c-sharp-practice\Playground\BasicConcepts\obj\Debug\net8.0\ref\BasicConcepts.dll
