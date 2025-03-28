@@ -4,6 +4,7 @@
     {
         public void Run()
         {
+            //Remove Char at specified position
             string x = "w3resource";
             Console.WriteLine(x.Remove(1, 1));
 
@@ -25,6 +26,14 @@
             }
 
             Console.WriteLine(swapped);
+
+            // Add First Character to Front and Back
+            char xFirstChar = x[0];
+            char xLastChar = x[x.Length - 1];
+
+            string xFinal = x + xFirstChar;
+
+            Console.WriteLine($"xfirstChar = {xFirstChar} | xLastChar = {xLastChar} | xFinal {xFinal}");
         }
 
     }

@@ -35,6 +35,33 @@ class Program
             case 8:
                 new RemoveCharacterByIndex().Run();
                 break;
+            case 9:
+                new CheckPositiveAndNegative().Run();
+                new CheckPositiveAndNegative().Run2();
+                new CheckPositiveAndNegative().Run3();
+                break;
+            case 10:
+                new CheckForTwenty().Run();
+                break;
+            case 11:
+                new CheckWithinTwenty().Run();
+                break;
+            case 12:
+                new StringManipulations().Run();
+                break;
+            case 13:
+                new FindLongestWordInString().Run();
+                break;
+            case 14:
+                new PrintOddNumbers().Run();
+                break;
+            case 15:
+                new PrimeNumberCalclulator().Run();
+                break;
+            case 16:
+                new SumOfDigitsIntiger().Run();
+                break;
+
             default:
                 Console.WriteLine("Ungültige Auswahl");
                 break;

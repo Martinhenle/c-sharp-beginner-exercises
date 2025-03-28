@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\c-sharp-practice\\Playground\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\removecharacterbyindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\removecharacterbyindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\rectanglepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\rectanglepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\basicconcepts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\basicconcepts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\repeatnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\repeatnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\specifiedformular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\specifiedformular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\calculateaverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\calculateaverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\multiplicationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\multiplicationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\wthreeexc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\wthreeexc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\adressinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\adressinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|c:\\c-sharp-practice\\playground\\basicconcepts\\sumofdigitsintiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9437A15-9F32-49E0-852F-29CC1C35CBA6}|BasicConcepts\\BasicConcepts.csproj|solutionrelative:basicconcepts\\sumofdigitsintiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,131 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RemoveCharacterByIndex.cs",
-              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\RemoveCharacterByIndex.cs",
-              "RelativeDocumentMoniker": "BasicConcepts\\RemoveCharacterByIndex.cs",
-              "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\RemoveCharacterByIndex.cs",
-              "RelativeToolTip": "BasicConcepts\\RemoveCharacterByIndex.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T13:42:17.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RectanglePattern.cs",
-              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\RectanglePattern.cs",
-              "RelativeDocumentMoniker": "BasicConcepts\\RectanglePattern.cs",
-              "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\RectanglePattern.cs",
-              "RelativeToolTip": "BasicConcepts\\RectanglePattern.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T13:04:40.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SpecifiedFormular.cs",
-              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\SpecifiedFormular.cs",
-              "RelativeDocumentMoniker": "BasicConcepts\\SpecifiedFormular.cs",
-              "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\SpecifiedFormular.cs",
-              "RelativeToolTip": "BasicConcepts\\SpecifiedFormular.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:27:31.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CalculateAverage.cs",
-              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\CalculateAverage.cs",
-              "RelativeDocumentMoniker": "BasicConcepts\\CalculateAverage.cs",
-              "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\CalculateAverage.cs",
-              "RelativeToolTip": "BasicConcepts\\CalculateAverage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:17:16.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\Program.cs",
               "RelativeDocumentMoniker": "BasicConcepts\\Program.cs",
               "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\Program.cs",
               "RelativeToolTip": "BasicConcepts\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswCMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:17:41.127Z",
+              "WhenOpened": "2025-03-27T14:39:01.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BasicConcepts",
-              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\BasicConcepts.csproj",
-              "RelativeDocumentMoniker": "BasicConcepts\\BasicConcepts.csproj",
-              "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\BasicConcepts.csproj",
-              "RelativeToolTip": "BasicConcepts\\BasicConcepts.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-25T09:14:51.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RepeatNumbers.cs",
-              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\RepeatNumbers.cs",
-              "RelativeDocumentMoniker": "BasicConcepts\\RepeatNumbers.cs",
-              "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\RepeatNumbers.cs",
-              "RelativeToolTip": "BasicConcepts\\RepeatNumbers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAsAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SumOfDigitsIntiger.cs",
+              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\SumOfDigitsIntiger.cs",
+              "RelativeDocumentMoniker": "BasicConcepts\\SumOfDigitsIntiger.cs",
+              "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\SumOfDigitsIntiger.cs",
+              "RelativeToolTip": "BasicConcepts\\SumOfDigitsIntiger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:42:11.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WThreeExc.cs",
-              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\WThreeExc.cs",
-              "RelativeDocumentMoniker": "BasicConcepts\\WThreeExc.cs",
-              "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\WThreeExc.cs",
-              "RelativeToolTip": "BasicConcepts\\WThreeExc.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA0wA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:17:03.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdressInformation.cs",
-              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\AdressInformation.cs",
-              "RelativeDocumentMoniker": "BasicConcepts\\AdressInformation.cs",
-              "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\AdressInformation.cs",
-              "RelativeToolTip": "BasicConcepts\\AdressInformation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T09:15:46.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MultiplicationTable.cs",
-              "DocumentMoniker": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\MultiplicationTable.cs",
-              "RelativeDocumentMoniker": "BasicConcepts\\MultiplicationTable.cs",
-              "ToolTip": "C:\\c-sharp-practice\\Playground\\BasicConcepts\\MultiplicationTable.cs",
-              "RelativeToolTip": "BasicConcepts\\MultiplicationTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:11:01.232Z",
+              "WhenOpened": "2025-03-27T14:35:28.719Z",
               "EditorCaption": ""
             }
           ]
